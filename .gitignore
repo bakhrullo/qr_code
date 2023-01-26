@@ -51,7 +51,7 @@ __pypackages__/
 
 # Environments
 .venv
-
+env/
 venv/
 ENV/
 env.bak/
@@ -60,3 +60,4 @@ venv.bak/
 # Pyre type checker
 .pyre/
 .idea/*
+.env
